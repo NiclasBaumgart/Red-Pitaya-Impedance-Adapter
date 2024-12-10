@@ -1,0 +1,3 @@
+[submodule "KiCAD_LIB.git"]
+	path = KiCAD_LIB
+	url = git@github.com:BestSens/KiCAD_LIB.git
